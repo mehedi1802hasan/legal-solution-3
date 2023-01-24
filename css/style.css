@@ -1,0 +1,26 @@
+
+.footer-link li {
+    list-style: none;
+}
+.footer-link a{
+    text-decoration: none;
+    color:white;
+}
+.email{
+    width:230px;
+    height:60px;
+    
+}
+
+.faq-img{
+    width: 550px;
+height:490px;
+}
+.carousel-item{
+    opacity:0.9;
+}
+.awlad-img{
+    
+  
+    width: 100px;
+    height:100px;}
